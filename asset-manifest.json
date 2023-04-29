@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Murad_Ibadov_covid-stats-app1/static/css/main.f9939360.css",
-    "main.js": "/Murad_Ibadov_covid-stats-app1/static/js/main.2656ac7b.js",
-    "static/js/787.d3114e8c.chunk.js": "/Murad_Ibadov_covid-stats-app1/static/js/787.d3114e8c.chunk.js",
-    "static/media/corona.jpg": "/Murad_Ibadov_covid-stats-app1/static/media/corona.30553d3e57286df62497.jpg",
-    "index.html": "/Murad_Ibadov_covid-stats-app1/index.html",
-    "main.f9939360.css.map": "/Murad_Ibadov_covid-stats-app1/static/css/main.f9939360.css.map",
-    "main.2656ac7b.js.map": "/Murad_Ibadov_covid-stats-app1/static/js/main.2656ac7b.js.map",
-    "787.d3114e8c.chunk.js.map": "/Murad_Ibadov_covid-stats-app1/static/js/787.d3114e8c.chunk.js.map"
+    "main.css": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/css/main.8819e89a.css",
+    "main.js": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/js/main.e421aa70.js",
+    "static/js/787.d3114e8c.chunk.js": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/js/787.d3114e8c.chunk.js",
+    "static/media/corona.jpg": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/media/corona.30553d3e57286df62497.jpg",
+    "index.html": "/Murad_Ibadov_covid-stats-app1/public/index.html/index.html",
+    "main.8819e89a.css.map": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/css/main.8819e89a.css.map",
+    "main.e421aa70.js.map": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/js/main.e421aa70.js.map",
+    "787.d3114e8c.chunk.js.map": "/Murad_Ibadov_covid-stats-app1/public/index.html/static/js/787.d3114e8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9939360.css",
-    "static/js/main.2656ac7b.js"
+    "static/css/main.8819e89a.css",
+    "static/js/main.e421aa70.js"
   ]
 }
